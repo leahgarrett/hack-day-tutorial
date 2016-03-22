@@ -1,6 +1,6 @@
 # hack-day-tutorial
 Code from the [March 2016 Melbourne go lang Hack Day](http://www.meetup.com/golang-mel/events/229245373/) tutorial.<br />
-Files correspond to the steps in the [slides for the tutorial presentation](https://docs.google.com/presentation/d/1ZA-c7yi-ojTWCFmNj27L2TMuedzhC31Lv5g9JZNzPFo/edit?usp=sharing)
+The numbered files correspond to the steps in the [slides for the tutorial presentation](https://docs.google.com/presentation/d/1ZA-c7yi-ojTWCFmNj27L2TMuedzhC31Lv5g9JZNzPFo/edit?usp=sharing)
 <br />
 
 Feel free to use/adapt for your own meetups or training.
