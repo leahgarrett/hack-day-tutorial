@@ -23,7 +23,8 @@ Agenda:
 
 You're welcome to spend the entire day hacking on your own code, or join in any of the above activities. Expect a relaxed and fun atmosphere, with a bunch of friendly Gophers!
 
-<br />
+<br /> . 
+
 ## Further Reading/Activities
 * [Slides for the tutorial presentation](https://docs.google.com/presentation/d/1ZA-c7yi-ojTWCFmNj27L2TMuedzhC31Lv5g9JZNzPFo/edit?usp=sharing)
 * [Last years hack night - another example using the same weather API] (https://github.com/joho/noobnightexamples)
