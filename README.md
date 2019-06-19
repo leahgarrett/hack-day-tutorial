@@ -7,7 +7,8 @@ Feel free to use/adapt for your own meetups or training.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-<br />
+<br />  
+
 ## Meetup Description
 
 Perfect for Gophers of all levels; even if you haven't got Go installed - bring your laptop and we'll make it happen. If you've got an idea or existing project, this is a great opportunity to ask fellow Gophers any questions you might have and bounce ideas off our community.
@@ -23,7 +24,7 @@ Agenda:
 
 You're welcome to spend the entire day hacking on your own code, or join in any of the above activities. Expect a relaxed and fun atmosphere, with a bunch of friendly Gophers!
 
-<br /> . 
+<br />  
 
 ## Further Reading/Activities
 * [Slides for the tutorial presentation](https://docs.google.com/presentation/d/1ZA-c7yi-ojTWCFmNj27L2TMuedzhC31Lv5g9JZNzPFo/edit?usp=sharing)
