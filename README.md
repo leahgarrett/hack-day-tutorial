@@ -27,7 +27,7 @@ You're welcome to spend the entire day hacking on your own code, or join in any 
 
 ## Further Reading/Activities
 * [Slides for the tutorial presentation](https://docs.google.com/presentation/d/1ZA-c7yi-ojTWCFmNj27L2TMuedzhC31Lv5g9JZNzPFo/edit?usp=sharing)
-* [Last years hack night - another example using the same weather API] (https://github.com/joho/noobnightexamples)
+* [Last years hack night - another example using the same weather API](https://github.com/joho/noobnightexamples)
 * [A Tour of Go](https://tour.golang.org/welcome/1)
 * [Golang Response Snippets](http://www.alexedwards.net/blog/golang-response-snippets)
 * [Golang Challenges](http://golang-challenge.com/)
